@@ -1,0 +1,25 @@
+{
+  "name": "flow",
+  "version": "0.0.0",
+  "description": "Vizualise user flow",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-ruby-sass": "^1.4.0",
+    "gulp-browserify": "^0.5.1",
+    "coffeeify": "^1.1.0",
+    "angular": "^1.4.4",
+    "gulp-coffeelint": "^0.5.0",
+    "gulp-util": "^3.0.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-clean": "^0.3.1"
+  }
+}
